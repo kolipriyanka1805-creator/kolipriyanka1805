@@ -1,14 +1,14 @@
-👋 Hi, I'm Sanika Mohite
-🚀 B.Tech Graduate in Information Technology | Aspiring Software Developer
+👋 Hi, I'm Priyanka Koli
+🚀 B.Tech Graduate in Electronics and Telecommunication Engineering | Aspiring Software Developer
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;Full+Stack+Web+Development;C%23+%7C+.NET+%7C+Java+%7C+SQL;Always+Learning+New+Technologies" alt="Typing SVG" /> </p>
 👨‍💻 About Me
-🎓 B.Tech Graduate in Information Technology
+🎓 B.Tech Graduate in Electronics and Telecommunication Engineering
 💻 Passionate about Software Development, Web Development & Problem Solving
 🌱 Currently exploring Cloud Computing & Modern Software Development
 🔭 Built projects using .NET, Firebase, Flutter & Web Technologies
 🧠 Strong understanding of OOP, Data Structures & Database Management Systems
 📚 Always learning and improving my technical skills
-📫 Email: sanikamohite79@gmail.com
+📫 Email: kolipriyanka1805@gmail.com
 🛠️ Technical Skills
 💻 Programming Languages
 <p> <img src="https://skillicons.dev/icons?i=cs,java,js,html,css" /> </p>
